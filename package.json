@@ -1,0 +1,23 @@
+{
+  "name": "node2broswer",
+  "version": "0.0.1",
+  "description": "A tool to open browser from node environment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/geekingin/node2broswser.git"
+  },
+  "keywords": [
+    "node",
+    "broswer"
+  ],
+  "author": "Jeff Jing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geekingin/node2broswser/issues"
+  },
+  "homepage": "https://github.com/geekingin/node2broswser#readme"
+}
